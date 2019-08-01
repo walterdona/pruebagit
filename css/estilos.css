@@ -5,6 +5,7 @@ body{
 
 .cuerpe{
     padding-left: 40px;
+    padding-bottom: 40px;
     border: 1px solid black; 
     width: 1000px;
     margin: 0 auto;
@@ -18,4 +19,16 @@ body{
 .texto{
     color: darkviolet;
     font-size: 30px;
+}
+
+.contenido{
+    background-color: aquamarine;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.contenido p{
+    text-align: center;
 }
