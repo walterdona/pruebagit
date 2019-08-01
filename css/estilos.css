@@ -1,5 +1,21 @@
 body{
-    text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: chocolate;
+    color: black;
+}
+
+.cuerpe{
+    padding-left: 40px;
+    border: 1px solid black; 
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.titulo{
+    font-size: 50px;
+    color: darkblue;
+}
+
+.texto{
+    color: darkviolet;
+    font-size: 30px;
 }
